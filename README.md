@@ -33,7 +33,7 @@ Javascript fundemental coding game was the intention with this application. Curr
 ## Learning Points 
 
     Through building this application I learned about innerHTML function
-    this allows me to have updating html after events are triggered.
+    this allows me to have an updating html after events are triggered.
 
 ## Credits
 
