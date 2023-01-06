@@ -1,0 +1,24 @@
+
+.quiz{
+    font-family: Calibri, Candara, Segoe, 
+    Segoe UI, Optima, Arial, sans-serif;
+    font-size: 32px;
+    color: black;
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.startBtn{
+    background-color: cornflowerblue;
+    color: black;
+    font-size: 32px;
+    font-weight: bolder;
+    padding: 20px 40px;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px gray;
+    width: 250px;
+    height: 100px;
+}
